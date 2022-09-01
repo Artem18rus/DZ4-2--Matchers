@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/634misaesjhya38o?svg=true)](https://ci.appveyor.com/project/Artem18rus/dz4-2-matchers)
