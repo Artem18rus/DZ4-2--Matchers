@@ -1,40 +1,38 @@
 {
-  "name": "dz4-1--pure-functions",
+  "name": "dz4-2--matchers",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest --coverage",
     "lint": "eslint .",
-    "serve": "live-server ./coverage/lcov-report/"
+    "serve": "live-server"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Artem18rus/DZ4-1--Pure-functions.git"
+    "url": "git+https://github.com/Artem18rus/DZ4-2--Matchers.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Artem18rus/DZ4-1--Pure-functions/issues"
+    "url": "https://github.com/Artem18rus/DZ4-2--Matchers/issues"
   },
-  "homepage": "https://github.com/Artem18rus/DZ4-1--Pure-functions#readme",
+  "homepage": "https://github.com/Artem18rus/DZ4-2--Matchers#readme",
   "devDependencies": {
     "@babel/cli": "^7.18.10",
     "@babel/core": "^7.18.13",
     "@babel/preset-env": "^7.18.10",
     "babel-jest": "^29.0.1",
     "babel-loader": "^8.2.5",
-    "css-loader": "^6.7.1",
     "eslint": "^8.23.0",
     "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-plugin-import": "^2.26.0",
-    "html-loader": "^4.1.0",
     "jest": "^29.0.1",
-    "live-server": "^1.2.2",
-    "mini-css-extract-plugin": "^2.6.1"
+    "live-server": "^1.2.2"
   },
   "dependencies": {
     "core-js": "^3.25.0",
-    "npm": "^8.18.0"
+    "resolve-url": "^0.2.1",
+    "source-map-url": "^0.4.1",
+    "urix": "^0.1.0"
   }
 }
